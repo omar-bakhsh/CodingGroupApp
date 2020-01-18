@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "coding group",
+    "slug": "omarbakhsh",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./cg.png",
+    "splash": {
+      "image": "./cg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00FFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+        "android": {
+      "package": "com.codinggroup.omarBakhsh",
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "coding group card",
+    "githubUrl": "https://github.com/omar-bakhsh/CodingGroupApp"
+  }
+}
